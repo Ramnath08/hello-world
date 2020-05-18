@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     <link href="./Hello_files/css.css" rel="stylesheet" type="text/css">
+    
+    <title>Hello</title>
+    </head>
+
+
+
+    <body>
+    
+    
+    <h1>Our Menu</h1>
+    
+    
+ <div class="row">
+    
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        
+        <div class="inner">
+        <h2 id="one">Apple</h2>
+        
+        <p>
+            
+          An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. 
+Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian tradition.</p>
+        </div>
+        </div>
+        
+        
+        
+        
+        
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            
+            <div class="inner">
+            
+            <h2 id="two">orange</h2> 
+            
+            
+            <p>The orange is the fruit of various citrus species in the family Rutaceae 
+(see list of plants known as orange); it primarily refers to Citrus  sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); 
+varieties of sweet orange arise through mutations.</p>
+            </div>
+        </div>
+        
+        
+        
+        
+        
+        <div class="col-lg-4 col-md-12 col-sm-12">
+            <div class="inner">
+            <h2 id="three">Pineapple</h2>
+            
+
+
+            <p>The pineapple is a tropical plant with an edible fruit, also called a pineapple, and the most economically significant plant in the family Bromeliaceae. The pineapple is indigenous to South America, where it has been cultivated for many centuries.</p>
+            </div>
+        </div>
+    
+    
+    
+    
+    </div>
+    
+    
+
+
+
+
+
+
+</body></html>
